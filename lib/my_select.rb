@@ -6,5 +6,5 @@ def my_select(nums)
    collection << yield(nums[i])
    i+=1
  end
-collection
+nums
 end
