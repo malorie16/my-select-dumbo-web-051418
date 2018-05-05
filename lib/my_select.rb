@@ -6,5 +6,5 @@ def my_select(nums)
    #nums.even?
    i+=1
  end
-nums
+#nums
 end
