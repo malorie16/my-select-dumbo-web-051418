@@ -1,7 +1,7 @@
 def my_select(nums)
  i = 0
  collection = []
- while i < nums.select
+ while i < nums.length
   collection << yield(nums[i])
    i+=1
  end
