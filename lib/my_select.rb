@@ -5,5 +5,5 @@ def my_select(nums)
   new_array = yield(nums[i])
    i+=1
  end
-new_array
+new_array.even?
 end
